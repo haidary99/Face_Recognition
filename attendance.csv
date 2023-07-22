@@ -1,5 +1,5 @@
-Name,status,date,time
-Loei Haidari,absent,,
-Najwa,absent,,
-Taher Haidari,absent,,
-Yousef Haidari,present,21/07/2023,19:45:45
+Name,status,arrival_date,arrival_time,departure_date,departure_time
+Loei Haidari,absent,,,,
+Najwa,absent,,,,
+Taher Haidari,absent,,,,
+Yousef Haidari,present,2023-07-22,19:16:09,2023-07-22,19:16:49
