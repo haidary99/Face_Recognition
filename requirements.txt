@@ -1,0 +1,5 @@
+facenet-pytorch==2.5.3 
+torch==1.12.1
+torchvision==0.13.1
+opencv-python==4.7.0.68
+pandas==1.4.3
