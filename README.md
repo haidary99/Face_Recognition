@@ -1,4 +1,4 @@
-# AI-based Attendance System using Gaceial Recognition
+# AI-based Attendance System using Facial Recognition
 This project aims to develop a system that stores embeddings (vector of features) of faces in a database and based on it, identify faces from a video stream in real-time and assign an ID to the face if it matches the embeddings of one of the faces in the database. All the information of when an employee enters the company, the time employee leaves, and the time he/she spent in the company are automated and stored in an excel file.
 
 [Watch video a demonstration.](https://www.youtube.com/watch?v=MxFXoTrUpw0)
