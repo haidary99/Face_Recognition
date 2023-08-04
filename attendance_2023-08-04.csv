@@ -1,0 +1,5 @@
+Name,status,arrival_date,arrival_time,departure_date,departure_time,time_difference
+Loei Haidari,absent,,,,,None
+Najwa,absent,,,,,None
+Taher Haidari,departed,2023-08-04,20:30:40,2023-08-04,20:30:55,0:00:15
+Yousef Haidari,departed,2023-08-04,20:30:14,2023-08-04,20:30:20,0:00:06
