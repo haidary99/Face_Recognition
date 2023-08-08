@@ -38,3 +38,4 @@ for img, idx in loader: # img is in PIL format, here we are looping thru the ima
 # save data
 data = [embedding_list, name_list] # make a new list of the previous 2 lists
 torch.save(data, 'data.pt') # saving to make this code reusable without having to go thru the previous loops and steps every single time which is very costly
+print("[INFO] Features and embeddings of all faces learned and stored in data.pt file")
