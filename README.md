@@ -1,7 +1,7 @@
 # AI-based Attendance System using Facial Recognition
 This project aims to develop a system that stores embeddings (vector of features) of employee faces which are learned by utilizing AI algorithms in a database and based on this information, identify faces from a video stream in real-time and assign the appropriate ID to the face if it matches the embeddings of one of the faces in the database. All the information of when an employee enters the company, the time employee leaves, and the time he/she spent in the company are automated and stored in a csv file.
 
-[Watch video a demonstration.]([https://www.youtube.com/watch?v=MxFXoTrUpw0](https://youtu.be/NxIFCbIStIQ))
+[Watch video a demonstration.](https://youtu.be/NxIFCbIStIQ)
 
 Face detection is carried out by **MTCNN** . Face recognition is carried out using **Facenet**. Both of which are open source and are available through _facenet_pytorch_ github repo.
 
